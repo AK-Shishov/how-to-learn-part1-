@@ -88,7 +88,6 @@
   z-index: 1;
   background-image: url('../images/header-image.png');
   background-size: cover;
-  
 }
 
 .content {
@@ -102,7 +101,6 @@
 }
 
 .two-columns {
-  
   min-width: 784px;
   display: flex;
   margin: 0 auto;
@@ -321,7 +319,6 @@
 }
 
 .footer__columns {
-  
   width: 90%;
   display: flex;
   flex-direction: row;
